@@ -28,7 +28,7 @@ function Step() {
       </div>
       <div className="repeat">
       <button onClick={() => setRepeat((c) => c - 1)}>-</button>
-      <p>Repeat changes: {repeat}</p>
+      <p>Repeat: {repeat}</p>
       <button onClick={() => setRepeat((c) => c + 1)}>+</button>
       </div>
     </div>
