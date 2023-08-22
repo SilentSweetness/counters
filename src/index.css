@@ -32,3 +32,20 @@ p {
 .repeat {
   background-color: rgb(240, 165, 165);
 }
+
+.listButton {
+  height: 30px;
+  width: 50px;
+  font-size: 20px;
+}
+
+li {
+  text-decoration: none;
+}
+
+.deleteButton {
+  height: 30px;
+  width: 30px;
+  font-size: 20px;
+  margin: 20px;
+}
